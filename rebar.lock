@@ -1,0 +1,8 @@
+[{<<"common">>,
+  {git,"https://github.com/joq62/common.git",
+       {ref,"6781473a82433a2f9985001550ee3e31d1cfb5ba"}},
+  0},
+ {<<"resource_discovery">>,
+  {git,"https://github.com/joq62/resource_discovery.git",
+       {ref,"59d087a879239ee598dcbda1315c985d6163b99e"}},
+  0}].
