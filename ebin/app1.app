@@ -1,0 +1,12 @@
+{application,app1,
+             [{description,"An OTP application"},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {mod,{app1_app,[]}},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[app1_app,app1_sup,db_1,db_1_server,db_appl_deployment,
+                        db_appl_instance,db_appl_spec,db_cluster_instance,
+                        db_cluster_spec,db_config,db_host_spec,lib_db_etcd]},
+              {licenses,["Apache-2.0"]},
+              {links,[]}]}.
